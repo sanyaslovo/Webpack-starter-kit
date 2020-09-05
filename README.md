@@ -1,1 +1,1 @@
-# Hillel-group
+# Webpack-starter-kit
